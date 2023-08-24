@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Impact of AI on Writing Enhancement
-=============================================================
 
 As writers implement AI-powered tools to enhance their writing practice, it's important to evaluate the impact of AI on writing enhancement. This chapter will provide an overview of how to measure the ROI and effectiveness of AI implementation in writing practice, as well as identifying key performance metrics and goals for AI-enabled writing improvement and optimization.
 

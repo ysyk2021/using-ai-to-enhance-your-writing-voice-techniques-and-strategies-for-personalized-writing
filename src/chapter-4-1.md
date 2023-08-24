@@ -1,5 +1,3 @@
-Generating Ideas and Outlines with AI-Enabled Topic Modeling and Summarization
-================================================================================================================================
 
 AI-powered tools can enhance writing practice by providing new techniques for idea generation and content creation. By utilizing these tools, writers can overcome writer's block, spark inspiration, and achieve greater creativity and originality in their written content.
 

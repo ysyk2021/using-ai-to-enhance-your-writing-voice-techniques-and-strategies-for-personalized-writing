@@ -1,5 +1,3 @@
-Customizing Your Writing Style and Voice with AI-Enabled Personalization and Variation
-=========================================================================================================================================
 
 AI-powered writing tools can assist writers in customizing their writing style and voice through personalized writing techniques and strategies. This chapter will provide an overview of AI strategies for personalized writing, including how to use AI-enabled personalization and variation to create customized writing.
 

@@ -1,5 +1,3 @@
-Measuring the ROI and Effectiveness of AI Implementation in Writing Practice
-===========================================================================================================================================
 
 As writers implement AI-powered tools to enhance their writing practice, it's important to evaluate the return on investment (ROI) and effectiveness of these tools. This chapter will provide an overview of how to measure the ROI and effectiveness of AI implementation in writing practice.
 

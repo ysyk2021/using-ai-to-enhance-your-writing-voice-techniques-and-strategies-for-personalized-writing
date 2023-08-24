@@ -1,5 +1,3 @@
-Identifying Key Performance Metrics and Goals for AI-Enabled Writing Improvement and Optimization
-================================================================================================================================================================
 
 As writers utilize AI-powered writing tools to enhance their writing practice and efficiency, it's important to evaluate the impact of these tools and identify key performance metrics and goals for improvement and optimization. This chapter will provide an overview of how to evaluate the impact of AI on writing enhancement and identify key performance metrics and goals.
 

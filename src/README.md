@@ -1,4 +1,3 @@
-# Introduction
 
 Every writer has a unique voice that distinguishes them from others. It is what sets them apart and makes their writing stand out. However, finding your writing voice can be a challenging task. Luckily, technology has made it easier to personalize your writing style with the help of Artificial Intelligence (AI).
 
