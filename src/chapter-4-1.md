@@ -1,5 +1,4 @@
-Chapter 3: Generating Ideas and Outlines with AI-Enabled Topic Modeling and Summarization
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the innovative use of AI (Artificial Intelligence) for generating ideas and creating outlines through topic modeling and summarization techniques. Harnessing the power of AI in this capacity is instrumental for enhancing your writing voice and crafting personalized content with technology. Let's delve into the strategies and insights on how AI facilitates idea generation and outlines.
 

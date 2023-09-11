@@ -1,5 +1,4 @@
-Chapter 3: Improving Grammar and Style with AI-Enabled Language Learning and Correction
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the powerful capabilities of AI (Artificial Intelligence) in enhancing your writing's grammar and style. We will explore how AI-driven language learning and correction tools can be harnessed to elevate the quality and precision of your writing, ensuring that your voice is expressed clearly and effectively. Let's embark on a journey to refine your grammar and style with AI.
 

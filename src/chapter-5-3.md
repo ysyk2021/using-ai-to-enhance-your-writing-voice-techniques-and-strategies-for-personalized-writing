@@ -1,5 +1,4 @@
-Chapter 4: Increasing Efficiency and Speed with AI-Enabled Automation and Assistance
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI (Artificial Intelligence) can be harnessed to significantly enhance the efficiency and speed of the writing process. From automating repetitive tasks to providing real-time assistance, AI tools and strategies can empower writers to streamline their work and achieve higher levels of productivity. Let's dive into the world of AI-enabled automation and assistance in writing.
 

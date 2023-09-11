@@ -1,5 +1,4 @@
-Chapter 2: Different Types of AI Techniques and Applications for Writing Enhancement and Personalization
-========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the diverse landscape of AI (Artificial Intelligence) techniques and applications that writers can leverage to enhance their writing and personalize it to their unique style and audience. From natural language processing to machine learning algorithms, these AI tools offer a wide range of capabilities to cater to various aspects of writing improvement and customization. Let's delve into the world of AI-powered writing enhancement and personalization.
 

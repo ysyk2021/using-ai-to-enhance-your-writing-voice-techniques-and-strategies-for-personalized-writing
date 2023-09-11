@@ -1,5 +1,4 @@
-Chapter 3: Challenges and Risks of AI Adoption in Writing Enhancement and Personalization
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various challenges and risks associated with adopting AI in the context of writing enhancement and personalization. While AI can offer substantial benefits to writers, it is essential to understand and address potential hurdles and pitfalls.
 

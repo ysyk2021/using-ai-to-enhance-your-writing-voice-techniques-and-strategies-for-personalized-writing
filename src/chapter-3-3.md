@@ -1,5 +1,4 @@
-Chapter 4: Creating a Customized Roadmap for AI Implementation in Your Writing Process
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will guide you through the process of creating a personalized roadmap for implementing AI (Artificial Intelligence) in your writing process. A well-defined roadmap ensures that you harness AI effectively to enhance your writing voice, taking into account your specific goals, needs, and preferences. Let's explore the steps to tailor AI implementation to your unique writing journey.
 

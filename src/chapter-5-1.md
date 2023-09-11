@@ -1,5 +1,4 @@
-Chapter 3: Adapting to Your Audience and Tone with AI-Enabled Writing Analysis and Feedback
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ways in which AI (Artificial Intelligence) can assist writers in adapting their writing to suit different audiences and tones. AI-driven writing analysis and feedback tools can provide valuable insights and recommendations to ensure that your written content aligns with your intended audience and tone. Let's delve into the strategies and techniques for achieving personalized writing with AI.
 

@@ -1,5 +1,4 @@
-Chapter 5: Tools and Platforms for AI-Enabled Writing Improvement and Optimization
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore a wide array of tools and platforms that empower writers to enhance their writing through the capabilities of AI (Artificial Intelligence). From grammar correction to content optimization, these AI-driven tools and platforms offer writers the means to elevate the quality and impact of their work. Let's delve into the world of AI-enabled writing improvement and optimization.
 

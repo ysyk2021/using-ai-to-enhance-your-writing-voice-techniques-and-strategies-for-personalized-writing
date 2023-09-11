@@ -1,5 +1,4 @@
-Chapter 1: Identifying Your Writing Goals and Objectives for Optimal Performance and Creativity
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this opening chapter, we will delve into the crucial process of identifying your writing goals and objectives when harnessing the power of AI to enhance your writing voice. Understanding your unique objectives is the foundational step towards harnessing AI effectively and creatively in your writing journey.
 
